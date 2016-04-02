@@ -21,13 +21,13 @@ Output:
 Input:
 
 ```
-614487453523
+155921
 ```
 
 Output:
 
 ```
-533
+85
 ```
 
 [Hints](primegaps-hints.md)
