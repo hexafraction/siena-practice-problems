@@ -5,4 +5,4 @@ For obvious reasons, problem 1-level problems are not included, as they are simp
 | Difficulty | Subject     | Name |
 |------------|-------------|------|
 | Problem 2  | Mathematics | [Tetrahedral numbers](tetrahedral.md) |
-|            |             |      |
+| Problem 3  | Mathematics | [Prime gaps](primegaps.md)      |
